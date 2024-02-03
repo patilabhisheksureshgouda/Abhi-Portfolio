@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Tourism Project",
+    "imageSrc": "projects/project.png",
+    "description": "This project is made to learn basic language by building an tourism application",
+    "skills": ["HTML5", "CSS3", "Javascript"],
+    "source": "https://github.com/patilabhisheksureshgouda/Tourism-Project.git"
+  },
+  {
+    "title": "Training & Placement Cell",
+    "imageSrc": "projects/project.png",
+    "description": "This is our final year project In BE. This project job drives with student skills.",
+    "skills": ["React", "node", "Express", "MySql"],
+    "source": "https://github.com/patilabhisheksureshgouda/Deploy-pms.git"
+  }
+]
